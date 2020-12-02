@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'adventofcode2020'
-include('day01', 'utilities')
+include('day01', 'day02', 'utilities')
