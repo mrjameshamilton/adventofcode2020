@@ -11,4 +11,5 @@ rootProject.name = 'adventofcode2020'
 include('day01',
         'day02',
         'day03',
+        'day04',
         'utilities')
