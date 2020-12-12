@@ -6,4 +6,5 @@ include('day01',
         'day05',
         'day06',
         'day07',
+        'day08',
         'utilities')
