@@ -1,8 +1,7 @@
-package eu.jameshamilton.adventofcode2020.day06
+package eu.jameshamilton.adventofcode2020.day07
 
 
-import eu.jameshamilton.adventofcode2020.day07.*
-import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
 class AppTest {
